@@ -1,0 +1,19 @@
+button {
+    background-color:brown;
+    color:gold;
+    padding:20px;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+body{
+    padding:20px;
+    color:white;
+}
+p{
+    max: width 1000px;;
+}
+footer{
+    text-align: center;
+}
